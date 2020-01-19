@@ -1,0 +1,18 @@
+{
+  "kty": "DAJ",
+  "key_ops": [
+    "decrypt"
+  ],
+  "pub": {
+    "alg": "PAI-GN1",
+    "kty": "DAJ",
+    "kid": "",
+    "n": "AIl80byK-qewj9J1_9Z58ntBp1RN64KhDK6LNQf9-Q5lSwNCLq6OisPiJx2k0GM8eaMHmH52mBKlYSNrlvGQMmJXeR_B9jrYljyBZH1JRNBApZHX4JpYn4c",
+    "key_ops": [
+      "encrypt"
+    ]
+  },
+  "kid": "",
+  "lambda": "AIl80byK-qewj9J1_9Z58ntBp1RN64KhDK6LNQf9-Q5lSwNCLq6OisPiJx2jVOsIX2k-87avqDDvhh7Tux4T5wBFity3HbnPHs11d1lRFZNT3ZtHyJE9BdA",
+  "mu": "fG4vMCPl7H2dfkk4nEw3Psh0Yw4h6sEq6ODZ-t0OJTrScJex5PCMLjhilQ4eWGI8Ygj5rLzMNEIOxPd65k9e1Zs2CaigI0JoZu4XOQhQfW-fc26goenBKA"
+}

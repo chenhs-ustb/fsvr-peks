@@ -1,0 +1,9 @@
+{
+  "alg": "PAI-GN1",
+  "kty": "DAJ",
+  "kid": "",
+  "n": "AIl80byK-qewj9J1_9Z58ntBp1RN64KhDK6LNQf9-Q5lSwNCLq6OisPiJx2k0GM8eaMHmH52mBKlYSNrlvGQMmJXeR_B9jrYljyBZH1JRNBApZHX4JpYn4c",
+  "key_ops": [
+    "encrypt"
+  ]
+}
